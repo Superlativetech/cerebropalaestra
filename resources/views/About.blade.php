@@ -62,27 +62,27 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
         <!-- ==============================================
         Favicons
         =============================================== -->
-       <link rel="shortcut icon" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="{{url('/')}}/public/assets/images/favicon.png">
+       <link rel="shortcut icon" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="{{url('/')}}/assets/images/favicon.png">
 
         <!-- ==============================================
         Vendor Stylesheet
         =============================================== -->
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/bootstrap.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/slider.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/main.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/icons.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/animation.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/gallery.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/cookie-notice.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/bootstrap.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/slider.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/main.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/icons.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/animation.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/gallery.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/cookie-notice.min.css">
 
         <!-- ==============================================
         Custom Stylesheet
         =============================================== -->
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/default.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/theme-light-blue.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/default.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/theme-light-blue.css">
 
         <!-- ==============================================
         Theme Settings
@@ -138,7 +138,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     <a class="navbar-brand" href="{{route('Index')}}">
                         
                        
-                            <img src="{{url('/')}}/public/assets/images/Logo_White.png" alt="CEREBRO PALAESTRA">
+                            <img src="{{url('/')}}/assets/images/Logo_White.png" alt="CEREBRO PALAESTRA">
                        
                     </a>
 
@@ -206,10 +206,10 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     <!-- Item 1 -->
                     <div class="swiper-slide slide-center">
                         
-                         <video type="video/mp4" class="full-image" data-mask="3" src="{{url('/')}}/public/assets/videos/Brain.mp4" autoplay muted loop></video> 
+                         <video type="video/mp4" class="full-image" data-mask="3" src="{{url('/')}}/assets/videos/Brain.mp4" autoplay muted loop></video> 
 
-                       <!-- <img src="{{url('/')}}/public/assets/images/AboutBanner.jpg" class="full-image" data-mask="3">  -->
-                        <center><div id="pngicon" style="text-align: center; cursor: pointer;  position: absolute;"><a class="nav-link" href="#testimonials"><img src="{{url('/')}}/public/assets/images/easy.png"></a></div></center>
+                       <!-- <img src="{{url('/')}}/assets/images/AboutBanner.jpg" class="full-image" data-mask="3">  -->
+                        <center><div id="pngicon" style="text-align: center; cursor: pointer;  position: absolute;"><a class="nav-link" href="#testimonials"><img src="{{url('/')}}/assets/images/easy.png"></a></div></center>
                         <div class="slide-content row">
                             <div class="col-12 d-flex inner">
                                 <div class="center align-self-center text-center">
@@ -269,7 +269,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     <div class="row">
                         <div class="col-md-4 col-sm-4" style="margin-bottom:50px;">
                                 <div class="#">
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Pushkin.png" alt="PUSHKIN" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Pushkin.png" alt="PUSHKIN" class="person">
                                         <h5 style="margin-top: -10px">PUSHKIN</h5>
                                         </center>
                                         
@@ -281,7 +281,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                             </div>
                             <div class="col-md-4 col-sm-4" style="margin-bottom:50px;">
                                 <div class="#">
-                                       <center><center> <img src="{{url('/')}}/public/assets/images/team/Rohan.png" alt="Rohan" class="person">
+                                       <center><center> <img src="{{url('/')}}/assets/images/team/Rohan.png" alt="Rohan" class="person">
                                         <h5 style="margin-top: -10px">ROHAN</h5>
                                        <c/enter>
                                         
@@ -297,7 +297,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                 
                                 <div class="#">
                           
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Tessy.png" alt="Tessy" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Tessy.png" alt="Tessy" class="person">
                                         <h5 style="margin-top: -10px">TESSY</h5>
                                        </center>
                                         
@@ -317,7 +317,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                 
                                 <div class="#">
                           
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Shaunak.png" alt="SHAUNAK" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Shaunak.png" alt="SHAUNAK" class="person">
                                         <h5 style="margin-top: -10px">SHAUNAK</h5>
                                         </center>
                                         
@@ -336,7 +336,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                 
                                 <div class="#">
                           
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Kunal.png" alt="Kunal" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Kunal.png" alt="Kunal" class="person">
                                         <h5 style="margin-top: -10px">KUNAL</h5>
                                    </center>
                                         
@@ -359,7 +359,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                 
                                 <div class="#">
                           
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Vishal.png" alt="VISHAL" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Vishal.png" alt="VISHAL" class="person">
                                         <h5 style="margin-top: -10px">VISHAL</h5>
                                         </center>
                                         
@@ -378,7 +378,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                 
                                 <div class="#">
                           
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Aditya.png" alt="ADITYA" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Aditya.png" alt="ADITYA" class="person">
                                         <h5 style="margin-top: -10px">ADITYA</h5>
                                    </center>
                                         
@@ -423,7 +423,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                     <div class="brand">
                                         <a href="{{route('Index')}}" class="logo">
                                           
-                                                <img src="{{url('/')}}/public/assets/images/Logo_Blue.png" alt="CEREBRO PALAESTRA" id="footlogo">
+                                                <img src="{{url('/')}}/assets/images/Logo_Blue.png" alt="CEREBRO PALAESTRA" id="footlogo">
                                             
                                         </a>
                                     </div>
@@ -530,20 +530,20 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
         <!-- ==============================================
         Vendor Scripts
         =============================================== -->
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.easing.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.inview.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/popper.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/bootstrap.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/ponyfill.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/slider.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/animation.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/progress-radial.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/bricklayer.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/gallery.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/shuffle.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.easing.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.inview.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/popper.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/bootstrap.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/ponyfill.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/slider.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/animation.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/progress-radial.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/bricklayer.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/gallery.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/shuffle.min.js"></script>
         
-        <script src="{{url('/')}}/public/assets/js/main.js"></script>
+        <script src="{{url('/')}}/assets/js/main.js"></script>
 
     </body>
 

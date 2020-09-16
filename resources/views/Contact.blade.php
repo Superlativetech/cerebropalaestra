@@ -44,27 +44,27 @@
         <!-- ==============================================
         Favicons
         =============================================== -->
-        <link rel="shortcut icon" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="{{url('/')}}/public/assets/images/favicon.png">
+        <link rel="shortcut icon" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="{{url('/')}}/assets/images/favicon.png">
 
         <!-- ==============================================
         Vendor Stylesheet
         =============================================== -->
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/bootstrap.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/slider.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/main.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/icons.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/animation.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/gallery.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/cookie-notice.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/bootstrap.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/slider.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/main.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/icons.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/animation.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/gallery.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/cookie-notice.min.css">
 
         <!-- ==============================================
         Custom Stylesheet
         =============================================== -->
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/default.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/theme-light-blue.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/default.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/theme-light-blue.css">
 
         <!-- ==============================================
         Theme Settings
@@ -110,7 +110,7 @@
                     <a class="navbar-brand" href="{{route('Index')}}">
                         
                        
-                            <img src="{{url('/')}}/public/assets/images/Logo_Black.png" alt="CEREBRO PALAESTRA">
+                            <img src="{{url('/')}}/assets/images/Logo_Black.png" alt="CEREBRO PALAESTRA">
                        
                     </a>
 
@@ -323,7 +323,7 @@
                                     <div class="brand">
                                         <a href="{{route('Index')}}" class="logo">
                                           
-                                                <img src="{{url('/')}}/public/assets/images/Logo_Blue.png" alt="CEREBRO PALAESTRA" id="footlogo">
+                                                <img src="{{url('/')}}/assets/images/Logo_Blue.png" alt="CEREBRO PALAESTRA" id="footlogo">
                                             
                                         </a>
                                     </div>
@@ -430,20 +430,20 @@
         <!-- ==============================================
         Vendor Scripts
         =============================================== -->
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.easing.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.inview.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/popper.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/bootstrap.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/ponyfill.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/slider.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/animation.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/progress-radial.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/bricklayer.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/gallery.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/shuffle.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.easing.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.inview.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/popper.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/bootstrap.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/ponyfill.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/slider.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/animation.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/progress-radial.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/bricklayer.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/gallery.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/shuffle.min.js"></script>
         
-        <script src="{{url('/')}}/public/assets/js/main.js"></script>
+        <script src="{{url('/')}}/assets/js/main.js"></script>
 
     </body>
 

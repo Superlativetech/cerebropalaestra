@@ -110,27 +110,27 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
         <!-- ==============================================
         Favicons
         =============================================== -->
-     <link rel="shortcut icon" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="{{url('/')}}/public/assets/images/favicon.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="{{url('/')}}/public/assets/images/favicon.png">
+     <link rel="shortcut icon" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="{{url('/')}}/assets/images/favicon.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="{{url('/')}}/assets/images/favicon.png">
 
         <!-- ==============================================
         Vendor Stylesheet
         =============================================== -->
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/bootstrap.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/slider.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/main.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/icons.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/animation.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/gallery.min.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/vendor/cookie-notice.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/bootstrap.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/slider.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/main.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/icons.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/animation.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/gallery.min.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/vendor/cookie-notice.min.css">
 
         <!-- ==============================================
         Custom Stylesheet
         =============================================== -->
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/default.css">
-        <link rel="stylesheet" href="{{url('/')}}/public/assets/css/theme-light-blue.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/default.css">
+        <link rel="stylesheet" href="{{url('/')}}/assets/css/theme-light-blue.css">
 
         <!-- ==============================================
         Theme Settings
@@ -187,7 +187,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     <a class="navbar-brand" href="{{route('Index')}}">
                         
                        
-                            <img src="{{url('/')}}/public/assets/images/Logo_White.png" alt="CEREBRO PALAESTRA">
+                            <img src="{{url('/')}}/assets/images/Logo_White.png" alt="CEREBRO PALAESTRA">
                        
                     </a>
 
@@ -258,14 +258,14 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     <!-- Item 1 -->
                     <div class="swiper-slide slide-center">
                         
-                         <video type="video/mp4" class="full-image" data-mask="3" src="{{url('/')}}/public/assets/videos/CerebroShowcase.mp4" autoplay muted loop></video> 
+                         <video type="video/mp4" class="full-image" data-mask="3" src="{{url('/')}}/assets/videos/CerebroShowcase.mp4" autoplay muted loop></video> 
 
-                        <!--<img src="{{url('/')}}/public/assets/images/bg-4.jpg" class="full-image" data-mask="3">  -->
-                        <center><div id="pngicon" style="text-align: center; cursor: pointer;  position: absolute;"><a class="nav-link" href="#core"><img src="{{url('/')}}/public/assets/images/easy.png"></a></div></center>
+                        <!--<img src="{{url('/')}}/assets/images/bg-4.jpg" class="full-image" data-mask="3">  -->
+                        <center><div id="pngicon" style="text-align: center; cursor: pointer;  position: absolute;"><a class="nav-link" href="#core"><img src="{{url('/')}}/assets/images/easy.png"></a></div></center>
                         <div class="slide-content row">
                             <div class="col-12 d-flex inner">
                                 <div class="center align-self-center text-center">
-                                <img src="{{url('/')}}/public/assets/images/Banner_Logo.png" >
+                                <img src="{{url('/')}}/assets/images/Banner_Logo.png" >
                                   <!--   <a href="#core" data-aos="zoom-out-up" data-aos-delay="1200" class="smooth-anchor ml-auto mr-auto mt-5 btn primary-button"><i class="icon-cup"></i>GET STARTED</a> -->
 
                                 </div>
@@ -281,32 +281,32 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
         </section>
 
         <!-- Features -->
-        <section id="core" style="background-image:url('{{url('/')}}/public/assets/images/Banner_1.jpg') ; width:100%; background-size:cover" class="section-2 odd highlights image-center featured">
+        <section id="core" style="background-image:url('{{url('/')}}/assets/images/Banner_1.jpg') ; width:100%; background-size:cover" class="section-2 odd highlights image-center featured">
             <div class="container">
                <div class="row justify-content-center text-center items">
 				
 				    <div class="col-6 col-md-6 col-lg-3 item">
                         <div class="card no-hover">
-                           <center> <img src="{{url('/')}}/public/assets/images/icons/Icon_4.png" width="90px"; > </center>
+                           <center> <img src="{{url('/')}}/assets/images/icons/Icon_4.png" width="90px"; > </center>
                             <h6>Responsibility</h6>
                         </div>
                     </div>
                     <div class="col-6 col-md-6 col-lg-3 item">
                         <div class="card no-hover">
-                           <center> <img src="{{url('/')}}/public/assets/images/icons/Icon_1.png" width="90px"; > </center>
+                           <center> <img src="{{url('/')}}/assets/images/icons/Icon_1.png" width="90px"; > </center>
                             <h6>Technology</h6>
                             </div>
                     </div>
 					
 					<div class="col-6 col-md-6 col-lg-3 item">
                         <div class="card no-hover">
-                          <center>  <img src="{{url('/')}}/public/assets/images/icons/Icon_3.png"width="90px"; > </center>
+                          <center>  <img src="{{url('/')}}/assets/images/icons/Icon_3.png"width="90px"; > </center>
                             <h6>Gaming</h6>
                             </div>
                     </div>
                     <div class="col-6 col-md-6 col-lg-3 item">
                         <div class="card no-hover">
-                           <center> <img src="{{url('/')}}/public/assets/images/icons/Icon_2.png" width="90px"; > </center>
+                           <center> <img src="{{url('/')}}/assets/images/icons/Icon_2.png" width="90px"; > </center>
                             <h6>Media</h6>
                             </div>
                     </div>
@@ -346,7 +346,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
         
         
          <!-- Subscribe -->
-        <section id="subscribe" class="section-11 odd subscribe" style="background-image:url('{{url('/')}}/public/assets/images/ScrollBanner.jpg'); width:100%; background-size:cover">
+        <section id="subscribe" class="section-11 odd subscribe" style="background-image:url('{{url('/')}}/assets/images/ScrollBanner.jpg'); width:100%; background-size:cover">
             <div class="container smaller">
                 <div class="row text-center intro">
                     <div class="col-12">
@@ -368,7 +368,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                 <div class="row justify-content-center text-center items" style="margin-bottom:5px">
                     <div class="col-12 col-md-6 col-lg-3 item">
                         <div class="card" style="padding-top:50px">
-                          <center>  <img src="{{url('/')}}/public/assets/images/icons/Icon_5.png" width="60px"; > </center>
+                          <center>  <img src="{{url('/')}}/assets/images/icons/Icon_5.png" width="60px"; > </center>
                             <h5 style="color:white">DATA-ORIENTED</h5>
                             <p style="color:white">We’ve taken the guesswork out of the products we develop and services we provide. We bank on real-time, validated data in crucial decision making, both for creating our products or generating value for our partners.</p>
                             <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
@@ -377,7 +377,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 item" style="margin-bottom:5px">
                         <div class="card" style="padding-top:50px">
-                          <center> <img src="{{url('/')}}/public/assets/images/icons/Icon_6.png" width="60px"; > </center>
+                          <center> <img src="{{url('/')}}/assets/images/icons/Icon_6.png" width="60px"; > </center>
                             <h5 style="color:white">INVESTOR-FRIENDLY</h5>
                             <p style="color:white">In an incredibly competitive domain like technology, we know the importance of our investors’ time and money. Building quality is in our DNA and we ensure it gets translated into a great ROI for our investors and customers alike.</p>
                             <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
@@ -386,7 +386,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 item" style="margin-bottom:5px">
                         <div class="card" style="padding-top:50px">
-                           <center> <img src="{{url('/')}}/public/assets/images/icons/Icon_7.png" width="60px"; > </center>
+                           <center> <img src="{{url('/')}}/assets/images/icons/Icon_7.png" width="60px"; > </center>
                             <h5 style="color:white">DOMAIN EXPERTS</h5>
                             <p style="color:white">We love to play games. We love to innovate. But while those two come together beautifully at our LAN Parties, it happens even better in our workspace. Each of our team members bring years of domain-specific expertise, academic pedigree and hands-on experience.</p>
                             <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
@@ -395,7 +395,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     
                      <div class="col-12 col-md-6 col-lg-3 item" style="margin-bottom:5px">
                         <div class="card" style="padding-top:50px">
-                           <center> <img src="{{url('/')}}/public/assets/images/icons/Icon_8.png" width="60px"; > </center>
+                           <center> <img src="{{url('/')}}/assets/images/icons/Icon_8.png" width="60px"; > </center>
                             <h5 style="color:white">TRANSPARENCY</h5>
                             <p style="color:white">We dream of a world based on trust and transparency. We have taken the time to build an organization that thrives on the culture of open exchange of ideas and information.</p>
                            <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
@@ -421,7 +421,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     <div class="row">
                         <div class="col-md-4 col-sm-4" >
                                 <div class="#">
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Pushkin.png" alt="PUSHKIN" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Pushkin.png" alt="PUSHKIN" class="person">
                                         <h5 style="margin-top: -10px">PUSHKIN</h5>
                                        </center>
                                         
@@ -433,7 +433,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                             </div>
                             <div class="col-md-4 col-sm-4" id="team_col">
                                 <div class="#">
-                                       <center> <img src="{{url('/')}}/public/assets/images/team/Rohan.png" alt="ROHAN" class="person">
+                                       <center> <img src="{{url('/')}}/assets/images/team/Rohan.png" alt="ROHAN" class="person">
                                         <h5 style="margin-top: -10px">ROHAN</h5>
                                         </center>
                                         
@@ -452,7 +452,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                 
                                 <div class="#">
                           
-                                       <center > <img src="{{url('/')}}/public/assets/images/team/Tessy.png" alt="TESSY" class="person">
+                                       <center > <img src="{{url('/')}}/assets/images/team/Tessy.png" alt="TESSY" class="person">
                                         <h5 style="margin-top: -10px">  TESSY</h5>
                                         </center>
                                         
@@ -484,7 +484,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
         
 
         <!-- Fun Facts -->
-        <section id="portfolios" class="section-4 odd counter funfacts featured" style="background-image:url('{{url('/')}}/public/assets/images/ScrollBanner_1.jpg'); width:100%; background-size:cover">
+        <section id="portfolios" class="section-4 odd counter funfacts featured" style="background-image:url('{{url('/')}}/assets/images/ScrollBanner_1.jpg'); width:100%; background-size:cover">
             <div class="container">
                 <div class="row text-center intro">
                     <div class="col-12">
@@ -495,7 +495,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                    
                     <div class="col-12 col-md-6 col-lg-4 item" id="col_padd">
                         <div >
-                        <a href="#" class="nav-link">   <img src="{{url('/')}}/public/assets/images/icons/Icon_9.png" style="margin-top:-20px; margin-bottom:20px"> <a>
+                        <a href="#" class="nav-link">   <img src="{{url('/')}}/assets/images/icons/Icon_9.png" style="margin-top:-20px; margin-bottom:20px"> <a>
                         </div>
                         <!--<p style="color:white">Superlative Gaming is the Game Development Centre of Cerebro Palaestra.</p>-->
                     </div>
@@ -503,14 +503,14 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                     
                     <div class="col-12 col-md-6 col-lg-4 item" id="col_padd">
                         <div >
-                         <a href="https://www.pokernxt.in/" target="_blank" class="nav-link">  <img src="{{url('/')}}/public/assets/images/icons/Icon_10.png" style="margin-top:-20px; margin-bottom:20px"> <a>
+                         <a href="https://www.pokernxt.in/" target="_blank" class="nav-link">  <img src="{{url('/')}}/assets/images/icons/Icon_10.png" style="margin-top:-20px; margin-bottom:20px"> <a>
                         </div>
                         <!--<p style="color:white">A next-generation Poker playing platform madeBy Players, For Everyone.</p>-->
                     </div>
                    
                     <div class="col-12 col-md-6 col-lg-4 item" id="col_padd">
                         <div >
-                         <a href="https://gamerly.io/" target="_blank" class="nav-link">  <img src="{{url('/')}}/public/assets/images/icons/Icon_11.png">  <a>
+                         <a href="https://gamerly.io/" target="_blank" class="nav-link">  <img src="{{url('/')}}/assets/images/icons/Icon_11.png">  <a>
                         </div>
                         <!--<p style="color:white">A Gaming community with deep platform integration, content aggregation and direct engagement.</p>-->
                     </div>
@@ -528,9 +528,9 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                 <div class="container">
                     <div class="row">
                          <div class="col-sm-12 col-md-12 col-12" style="text-align: right;">
-                           <center>   <img src="{{url('/')}}/public/assets/images/ICON.png" id="heart"></center> 
+                           <center>   <img src="{{url('/')}}/assets/images/ICON.png" id="heart"></center> 
 
-                             <img src="{{url('/')}}/public/assets/images/ICON.png" id="heart2" >
+                             <img src="{{url('/')}}/assets/images/ICON.png" id="heart2" >
                         </div>
                     </div>
                     <div class="row text-center intro">
@@ -566,7 +566,7 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
                                     <div class="brand">
                                         <a href="{{route('Index')}}" class="logo">
                                           
-                                                <img src="{{url('/')}}/public/assets/images/Logo_Blue.png" alt="CEREBRO PALAESTRA" id="footlogo">
+                                                <img src="{{url('/')}}/assets/images/Logo_Blue.png" alt="CEREBRO PALAESTRA" id="footlogo">
                                             
                                         </a>
                                     </div>
@@ -677,20 +677,20 @@ body header .navbar-expand .navbar-nav.contacts, body header .navbar-expand .nav
         <!-- ==============================================
         Vendor Scripts
         =============================================== -->
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.easing.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/jquery.inview.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/popper.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/bootstrap.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/ponyfill.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/slider.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/animation.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/progress-radial.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/bricklayer.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/gallery.min.js"></script>
-        <script src="{{url('/')}}/public/assets/js/vendor/shuffle.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.easing.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/jquery.inview.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/popper.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/bootstrap.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/ponyfill.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/slider.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/animation.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/progress-radial.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/bricklayer.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/gallery.min.js"></script>
+        <script src="{{url('/')}}/assets/js/vendor/shuffle.min.js"></script>
         
-        <script src="{{url('/')}}/public/assets/js/main.js"></script>
+        <script src="{{url('/')}}/assets/js/main.js"></script>
 
     </body>
 
